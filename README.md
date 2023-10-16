@@ -82,7 +82,7 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 <head>
 <style>
   .red-text {
-    color: #FF0000; /* Red color code */
+    color: #FF0000; 
   }
 </style>
 </head>
