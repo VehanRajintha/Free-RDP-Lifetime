@@ -19,4 +19,12 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
   https://console.cloud.google.com/welcome?project=glassy-proton-394217&cloudshell=true
   
 ![pic](pic.jpg)
+
+
+- Now copy the code below and paste it in your google cloud shell command prompt and press enter
   
+  ....
+  
+  curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+
+  ....
