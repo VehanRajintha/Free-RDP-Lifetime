@@ -77,17 +77,4 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 
  **BOOM NOW YOU CAN ENJOYE YOUR FREE RDP WITH CRAZY NETWORK SPEED**
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .red-text {
-    color: #FF0000; 
-  }
-</style>
-</head>
-<body>
-  <p class="red-text">Remember this is valid for 12 hours only and after that time you can get Free RDP by repeating this process.</p>
-</body>
-</html>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Remember+this+is+valid+for+12+hours;+only+and+after+that+time+you+can+get+;Free+RDP+by+repeating+this+process.)](https://git.io/typing-svg)
