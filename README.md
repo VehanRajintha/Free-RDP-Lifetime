@@ -36,8 +36,7 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
   ![pic2](pic2.jpg)
 
 
-
-  - After that you can take care of your region like this.
+ - After that you can take care of your region like this.
 
 
     
@@ -57,7 +56,7 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
     
     in - India (Mumbai)
 
-  - I would recommend the Singapore Region to give you the one you like.
+- I would recommend the Singapore Region to give you the one you like.
   - Finally, you will be able to take care of it. Here are some details like this
  
     ![pic](pic3.jpg)
