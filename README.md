@@ -68,3 +68,11 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 - Now give the host and port given to you by cloud shell as per the image below
 
    ![pic](pic4.jpg)
+
+- Ok thats all now you can login to your rdp remember username and password always
+   username - user
+   passward - 123456
+
+   ![pic](pic5.jpg)
+
+ **BOOM NOW YOU CAN ENJOYE YOUR FREE RDP WITH CRAZY NETWORK SPEED**
