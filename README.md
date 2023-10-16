@@ -36,9 +36,9 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
   - After that you can take care of your region like this.
 
 
-    =======================
+    
      choose ngrok region (for better connection).
-    =======================
+   
     us - United States (Ohio)
     
     eu - Europe (Frankfurt)
