@@ -32,6 +32,7 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 
 
   ![pic2](pic2.jpg)
+  
 
   - After that you can take care of your region like this.
 
