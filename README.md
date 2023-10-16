@@ -77,12 +77,12 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 
  **BOOM NOW YOU CAN ENJOYE YOUR FREE RDP WITH CRAZY NETWORK SPEED**
 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <style>
   .red-text {
-    color: red;
+    color: #FF0000; /* Red color code */
   }
 </style>
 </head>
