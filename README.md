@@ -57,4 +57,11 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
     
     in - India (Mumbai)
 
+  - I would recommend the Singapore Region to give you the one you like.
+  - Finally, you will be able to take care of it. Here are some details like this
+ 
+    ![pic](pic3.jpg)
+ 
+    
+
 
