@@ -60,7 +60,9 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 - Finally, you will be able to take care of it. Here are some details like this
  
     ![pic](pic3.jpg)
- 
-    
+
+ - Now that everything is done properly, now you have to go to the link below and download the NoMechine software and open it.
+   
+   Download NoMechine  https://downloads.nomachine.com/windows/?id=3
 
 
