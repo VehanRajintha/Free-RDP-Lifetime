@@ -76,3 +76,18 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
    ![pic](pic5.jpg)
 
  **BOOM NOW YOU CAN ENJOYE YOUR FREE RDP WITH CRAZY NETWORK SPEED**
+
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+</head>
+<body>
+  <p class="red-text">Remember this is valid for 12 hours only and after that time you can get Free RDP by repeating this process.</p>
+</body>
+</html>
+
