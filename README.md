@@ -22,7 +22,7 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 
 
 - Now copy the code below and paste it in your google cloud shell command prompt and press enter
-  
+
  ````
  curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
  ````
