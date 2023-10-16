@@ -21,6 +21,7 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 ![pic](pic.jpg)
 
 
+
 - Now copy the code below and paste it in your google cloud shell command prompt and press enter
 
  ````
@@ -31,4 +32,19 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 
 
   ![pic2](pic2.jpg)
+
+  - After that you can take care of your region like this.
+
+
+    =======================
+     choose ngrok region (for better connection).
+    =======================
+    us - United States (Ohio)
+    eu - Europe (Frankfurt)
+    ap - Asia/Pacific (Singapore)
+    au - Australia (Sydney)
+    sa - South America (Sao Paulo)
+    jp - Japan (Tokyo)
+    in - India (Mumbai)
+
 
