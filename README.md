@@ -65,4 +65,6 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
    
    Download NoMechine  https://downloads.nomachine.com/windows/?id=3
 
+- Now give the host and port given to you by cloud shell as per the image below
 
+   ![pic](pic4.jpg)
