@@ -18,5 +18,5 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 - First, click on the link below and go to Google Cloud Shell. Click on the link below and enter the Google Cloud Shell command prompt.
   https://console.cloud.google.com/welcome?project=glassy-proton-394217&cloudshell=true
   
-![pic](IMG_pic.jpg)
+![pic](pic.jpg)
   
