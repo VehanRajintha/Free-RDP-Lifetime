@@ -8,7 +8,6 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 ![stars](https://img.shields.io/github/stars/VehanRajintha/Free-RDP-Lifetime?style=social)
 
 ![size](https://img.shields.io/github/repo-size/VehanRajintha/Free-RDP-Lifetime?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/VehanRajintha/Free-RDP-Lifetime?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
