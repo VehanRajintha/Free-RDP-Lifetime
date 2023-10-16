@@ -29,3 +29,6 @@ Hey guys, I brought from this repo how to use google cloud shell and create an R
 - Now you will be able to see that your Ngrok Authtoken is being requested in the Terminal, all you have to do is simply go to the website called ngrok.io and simply sign 
   up and then you can see your Authtoken on your Dashboard like this.
 
+
+  ![pic2](pic2.jpg)
+
